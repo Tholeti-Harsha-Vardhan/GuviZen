@@ -1,0 +1,65 @@
+Problem : 
+
+marvel cinematic universe is not explained properly on web
+
+Solution : 
+
+explaining all marvel sequences 
+
+Title/Name:
+IndianMarvel - All Marvel Stories and Sequences explained  
+
+Abstract:
+
+It is a website where every marvel enthusiast can learn about each and every plot of the marvel movies and series, and also we can also marvel fan wars by quiz games and chat area.  
+
+
+Types of users:
+	1. user
+	2. admin
+	3. guest
+
+Modules:
+	1.user
+	  # Registration and verification
+	  # login
+	  # their favorite top 3 marvel characters	
+	
+	2.admin
+	  # login
+	  # writing blogs on marvel movies and web series	
+	  # updating the marvel timeline
+	
+	3.guest
+	  # skip the login
+          # read the content in the website 
+
+Workflow:
+	1.user
+	  # registration 
+          # verification
+          # login
+          # forgot password
+          # select favorite characters
+          # fill the details
+	  # select default pictures as profile picture
+          # profile
+          # ranking
+          # content area
+          # marvel fan wars
+          # log out
+        
+	2.admin
+          # login
+          # forgot password
+          # admin dashboard
+          # log out
+
+       	3.guest
+	  # registration
+          # login
+          # forgot password
+	  # skip the login
+          # content area
+
+        
